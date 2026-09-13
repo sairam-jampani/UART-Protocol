@@ -124,7 +124,8 @@ The simulation confirms:
 
 ## 🧩 RTL Schematic
 
-<img width="1920" height="1080" alt="Schematic" src="">
+<img width="1920" height="1080" alt="Schematic" src="https://github.com/user-attachments/assets/f966b707-b491-439d-bfef-13c66cd727aa" />
+
 
 *> Displays the RTL structure of the UART Transmitter and Receiver design generated in Vivado.*
 
@@ -132,7 +133,8 @@ The simulation confirms:
 
 ## 🌊 Waveform Analysis
 
-<img width="1920" height="1080" alt="Simulation" src="">
+<img width="1917" height="1078" alt="Simulation" src="https://github.com/user-attachments/assets/a7fab931-87ed-48dc-b01d-4bd2a7d114f2" />
+
 
 ### Waveform Verification
 
@@ -147,7 +149,8 @@ The waveform confirms:
 
 ## 🖥️ TCL Console Output
 
-<img width="1565" height="362" alt="TCLconsole" src="">
+<img width="1555" height="832" alt="TCL console" src="https://github.com/user-attachments/assets/8370ae1b-ccbc-42c6-a81b-7fb65ce006ca" />
+
 
 **Understanding the TCL Console:**
 
